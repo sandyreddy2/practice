@@ -1,0 +1,9 @@
+{
+	"name": "ADFSandypracticegit",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ca5e9c4b-3717-4ded-aaab-d297df1d334f",
+		"tenantId": "05109e16-1c5c-4975-b9e8-e10494ca7b73"
+	}
+}
